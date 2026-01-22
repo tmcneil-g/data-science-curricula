@@ -1,0 +1,31 @@
+# Generate caterpillar-style plot of scores for NASEM "Workflow and reproducibility" sub-area
+
+library(ggplot2)
+
+# Read in data
+reproducible.scores <- read.csv(file = reproducible_long, stringsAsFactors = FALSE)
+
+# Caterpillar plot
+
+ggplot(data=reproducible.scores,             
+
+
+# Some final theming for the figure
+  scores_catplot <- scores_catplot + 
+    labs(x = "Area",
+         y = "Score") +
+    theme_bw() +
+    coord_flip()
+  scores_catplot
+  
+  ggsave(filename = paste0("output/scores-", framework, ".pdf"),
+         plot = scores_catplot,
+         width = 10,
+         height = nrow(plot_labels) + plot_height_mod, 
+         units = "cm")
+  
+  ggsave(filename = paste0("output/scores-", framework, ".png"),
+         plot = scores_catplot,
+         width = 10,
+         height = nrow(plot_labels) + plot_height_mod, 
+         units = "cm")

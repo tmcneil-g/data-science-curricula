@@ -4,7 +4,10 @@ library(car)
   
 # Assuming 'data' has an ordinal response 'y', fixed effects 'x1', 
 # and a grouping variable 'group' for the mixed effects
-  
+
+# Read data
+scores_long <- read.csv("C:/Users/ual-laptop/Desktop/data_management_long.csv")
+
 # 1. Fit the ordinal mixed-effects model
 
 # 2. Extract the design matrix for only the fixed effects
@@ -13,7 +16,7 @@ fixed_effects_data <- model.matrix(~ Area, data = scores_long)
   
 # 3. Fit a linear model using just the fixed effects' design matrix
 # The VIF calculation itself is based purely on the correlation among predictors.
-vif_model <- lm(1 ~ fixed_effects_data - 1 # '-1' removes the intercept, as VIFs are for predictors
+vif_model <- lm(1 ~ fixed_effects_data - 1) # '-1' removes the intercept, as VIFs are for predictors
 
 # 4. Calculate the VIF values using the car package's vif() function
 vif_values <- vif(vif_model)

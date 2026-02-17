@@ -1,23 +1,34 @@
 # Generate caterpillar-style plot of scores for NASEM "Workflow and reproducibility" sub-area
 
-library(ggplot2)
+library("ggplot2")
 
 # Read in data
-reproducible.scores <- read.csv(file = reproducible_long, stringsAsFactors = FALSE)
+reproducible.scores <- read.csv(file = "data/reproducible_long.csv", stringsAsFactors = FALSE)
 
 # Caterpillar plot
 
-ggplot(data=reproducible.scores,             
+
+ # Will want to get labels for the graph, but only need it for Areas (not sub-
+  # areas)
+  plot_labels <- areas %>%
+    filter(Status == "Area") %>%
+    select(Area, Label) %>%
+    rename(area = Area,
+           label = Label)
 
 
-# Some final theming for the figure
-  scores_catplot <- scores_catplot + 
-    labs(x = "Area",
-         y = "Score") +
-    theme_bw() +
-    coord_flip()
-  scores_catplot
-  
+# And order the data frame to align with levels based on mean scores
+  plot_labels$area <- factor(x = plot_labels$area,
+                             levels = area_levels)
+  plot_labels <- plot_labels[order(plot_labels$area), ]
+  # And finally re-level label, which will dictate the order in which 
+  # things appear on the axis
+  plot_labels$label <- factor(x = plot_labels$label,
+                              levels = plot_labels$label)
+
+ggplot(data = reproducible.scores, mapping = aes(x = Score, y = Sub-Area)) +            
++ theme_bw() 
+
   ggsave(filename = paste0("output/scores-", framework, ".pdf"),
          plot = scores_catplot,
          width = 10,
@@ -29,3 +40,5 @@ ggplot(data=reproducible.scores,
          width = 10,
          height = nrow(plot_labels) + plot_height_mod, 
          units = "cm")
+
+plot_height_mod <- 3

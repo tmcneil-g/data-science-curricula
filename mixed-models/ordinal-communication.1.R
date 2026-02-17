@@ -4,7 +4,7 @@ install.packages("emmeans")
 library(emmeans)
 
 # Read data
-scores_long <- read.csv("C:/Users/ual-laptop/Desktop/communication_long.csv")
+scores_long <- read.csv(file = "data/communication_long.csv")
 # Ordinal package is expecting a factor for the response variable
 scores_long$ScoreOrdinal <- as.factor(scores_long$Score)
 
@@ -15,4 +15,5 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
                              threshold = "equidistant") 
 
 emm <- emmeans(scores_clmm, ~ Area)
+
 pairs(emm, adjust = "tukey")

@@ -22,6 +22,3 @@ library(performance)
 
 check_collinearity(scores_clmm)
 
-# Ordinal package is expecting a factor for the response variable
-scores_long$ScoreOrdinal <- as.factor(scores_long$Score)
-proxy_model <- lm(ScoreOrdinal ~ Area, data = scores_long)

@@ -3,6 +3,47 @@
 library("ggplot2")
 
 # Read in data
+reproducible.means.scores <- read.csv(file = "data/reproducible_means.csv", stringsAsFactors = FALSE)
+
+ggplot(data = reproducible.means.scores, mapping = aes(x =Avg.Score, y = Subarea)) +            
++ theme_bw()) +  geom_point(mapping = aes(x = area, y = score),
+               shape = 21,
+               fill = "black",
+               alpha = 0.25,
+               size = 1) + 
+
+scale_x_discrete('Scores’, labels=c('1', '2', '3,' ‘4’)) +
+
+scale_y_discrete(‘Sub-Areas’, labels=c(‘Reproducible analysis’, ‘Workflows and workflow systems’)
+
+size = 2.5, 
+shape = 21,
+fill = "black")
+
+geom_point(data = program_means,
+               mapping = aes(x = area, y = score),
+               shape = 21,
+               fill = "black",
+               alpha = 0.25,
+               size = 1)
+
+scale_x_discrete('Scores’, labels=c('1', '2', '3,' ‘4’))
+
+scale_y_discrete(‘Sub-Areas’, labels=c(‘Reproducible analysis’, ‘Workflows and workflow systems’)
+
+geom_point(mapping = aes(y = mean_score), 
+               size = 2.5, 
+               shape = 21,
+               fill = "white")
+
+
+ggsave(filename = "output/reproducible.png", plot =        , width = 10, height = 10, units = "cm")
+
+# Second way
+
+library("ggplot2")
+
+# Read in data
 reproducible.scores <- read.csv(file = "data/reproducible_long.csv", stringsAsFactors = FALSE)
 
 # Caterpillar plot

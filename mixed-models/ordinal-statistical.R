@@ -5,6 +5,11 @@ library(emmeans)
 
 # Read data
 scores_long <- read.csv(file = "data/statistical_long.csv")
+
+# Drop sub-area that does not have variation in the score, NA.Statistics.04 (Exploratory data analysis)
+scores_long <- scores_long %>%
+   filter(Area != "Exploratory")
+
 # Ordinal package is expecting a factor for the response variable
 scores_long$ScoreOrdinal <- as.factor(scores_long$Score)
 
@@ -17,3 +22,4 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
 emm <- emmeans(scores_clmm, ~ Area)
 
 pairs(emm, adjust = "tukey")
+

@@ -1,4 +1,5 @@
 library(ordinal)
+library(dplyr)
 library(emmeans)
 
 # Read data
@@ -20,5 +21,6 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
 emm <- emmeans(scores_clmm, ~ Area)
 
 pairs(emm, adjust = "tukey")
+
 
 

@@ -1,4 +1,5 @@
-# Ordinal mixed-effects model for "Data description and visualization" area
+# Ordinal mixed-effects model for "Data description and visualization" area and
+# post-hoc pairwise comparisons to assess significant differences between sub-areas
 
 library(ordinal)
 library(dplyr)
@@ -20,9 +21,10 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
                              data = scores_long,
                              threshold = "equidistant") 
 
+# Run post-hoc pairwise comparisons
 emm <- emmeans(scores_clmm, ~ Area)
-
 pairs(emm, adjust = "tukey")
+
 
 
 

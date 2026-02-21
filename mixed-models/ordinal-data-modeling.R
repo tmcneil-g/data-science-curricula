@@ -1,4 +1,4 @@
-# Ordinal mixed-effects model for "Data modeling and assessmentn" area and 
+# Ordinal mixed-effects model for "Data modeling and assessment" area and 
 # post-hoc pairwise comparisons to assess significant differences between sub-areas
 
 library(ordinal)

@@ -1,10 +1,12 @@
-install.packages("ordinal")
+# Ordinal mixed-effects model for "Workflow and reproducibility" area and 
+# post-hoc pairwise comparisons to assess significant differences between sub-areas
+
 library(ordinal)
-install.packages("emmeans")
 library(emmeans)
 
 # Read data
 scores_long <- read.csv(file = "data/reproducible_long.csv")
+
 # Ordinal package is expecting a factor for the response variable
 scores_long$ScoreOrdinal <- as.factor(scores_long$Score)
 
@@ -15,5 +17,4 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
                              threshold = "equidistant") 
 
 emm <- emmeans(scores_clmm, ~ Area)
-
 pairs(emm, adjust = "tukey")

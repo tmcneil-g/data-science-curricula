@@ -1,3 +1,5 @@
+# Ordinal mixed-effects model for "Data management and curation" area
+
 library(ordinal)
 library(dplyr)
 library(emmeans)
@@ -21,7 +23,8 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
                              data = scores_long,
                              threshold = "equidistant") 
 
+# Run post-hoc pairwise comparisons
 emm <- emmeans(scores_clmm, ~ Area)
+pairs(emm, adjust = "Tukey")
 
-pairs(emm, adjust = "tukey")
 

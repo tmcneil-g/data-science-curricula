@@ -1,3 +1,5 @@
+# # Ordinal mixed-effects model for "Data description and visualization" area
+
 library(ordinal)
 library(dplyr)
 library(emmeans)
@@ -21,6 +23,7 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
 emm <- emmeans(scores_clmm, ~ Area)
 
 pairs(emm, adjust = "tukey")
+
 
 
 

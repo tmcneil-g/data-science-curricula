@@ -1,6 +1,6 @@
-install.packages("ordinal")
+# Ordinal mixed-effects model for "Communication and teamwork" area
+
 library(ordinal)
-install.packages("emmeans")
 library(emmeans)
 
 # Read data
@@ -17,3 +17,4 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
 emm <- emmeans(scores_clmm, ~ Area)
 
 pairs(emm, adjust = "tukey")
+

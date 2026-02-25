@@ -1,7 +1,7 @@
 # Generate caterpillar-style plot of sub-area scores for NASEM Area "Workflow and reproducibility"
 
 # Read in data
-reproducible.long.scores <- read.csv(data = "data/reproducible_long.2.csv")
+reproducible.long.scores <- read.csv(file = "data/reproducible_long.2.csv")
 
 # Update description with linebreaks to conserve horizontal space in plot
 reproducible.long.scores$Subarea <- stringr::str_wrap(string = reproducible.long.scores$Subarea, 

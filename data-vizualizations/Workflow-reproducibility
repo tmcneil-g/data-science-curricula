@@ -1,0 +1,30 @@
+# Generate caterpillar-style plot of sub-area scores for NASEM Area "Workflow and reproducibility"
+
+# Read in data
+reproducible.long.scores <- read.csv(data = "data/reproducible_long.2.csv")
+
+# Update description with linebreaks to conserve horizontal space in plot
+reproducible.long.scores$Subarea <- stringr::str_wrap(string = reproducible.long.scores$Subarea, 
+                                                 width = 20)
+reproducible_catplot <- ggplot(data = reproducible.long.scores, mapping = aes(y = Subarea)) +
+  geom_errorbar(mapping = aes(xmin = Mean_Score - (2 * Se_Score),
+                              xmax = Mean_Score + (2 * Se_Score)),
+                width = 0.0) +
+  geom_point(mapping = aes(x = Score, y = Subarea),
+             shape = 21,
+             fill = "black",
+             alpha = 0.25,
+             size = 1) + 
+  geom_point(mapping = aes(x = Mean_Score, y = Subarea),
+             shape = 21,
+             fill = "white",
+             size = 2.5) + 
+  theme_bw() +
+  labs(x = "Score",
+       y = "Sub-Area")
+
+ggsave(filename = "output/reproducible.1.png", 
+       plot = reproducible_catplot,
+       width = 10,
+       height = 3,
+       units = "cm")

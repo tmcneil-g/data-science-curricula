@@ -8,6 +8,7 @@ reproducible_scores <- read.csv(file = "data/reproducible_long.csv")
 # Update description with linebreaks to conserve horizontal space in plot
 reproducible_scores$Subarea <- stringr::str_wrap(string = reproducible_scores$Subarea, 
                                                  width = 20)
+
 reproducible_catplot <- ggplot(data = reproducible_scores, mapping = aes(y = Subarea)) +
   geom_errorbar(mapping = aes(xmin = Mean_Score - (2 * Se_Score),
                               xmax = Mean_Score + (2 * Se_Score)),

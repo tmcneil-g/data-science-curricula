@@ -1,5 +1,7 @@
 # Generate caterpillar-style plot of sub-area scores for NASEM Area "Workflow and reproducibility"
 
+library("ggplot2")
+
 # Read in data
 reproducible_scores <- read.csv(file = "data/reproducible_long.csv")
 

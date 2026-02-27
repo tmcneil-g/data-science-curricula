@@ -1,4 +1,4 @@
-Subarea_1,Program,Score,Area,ScoreOrdinal,Subarea,Mean_Score,Se_Score
+Subarea.1,Program,Score,Area,ScoreOrdinal,Subarea,Mean_Score,Se_Score
 NASEM.Reproducibility.01,B.S. in Data Analytics.O,1,Workflows,1,Reproducible analysis,1.388888889,0.3258975
 NASEM.Reproducibility.01,"B.S. in Data Sciences, Applied Data Science option",4,Workflows,4,Reproducible analysis,1.388888889,0.3258975
 NASEM.Reproducibility.01,"B.S. in Data Sciences, Computational Science option",4,Workflows,4,Reproducible analysis,1.388888889,0.3258975
@@ -35,4 +35,3 @@ NASEM.Reproducibility.02,B.S. in Human Centered Design & Engineering with Data S
 NASEM.Reproducibility.02,"B.S. in Informatics, Data Science Track",1,Reproducible,1,Workflows & workflow systems,1.833333333,0.1832689
 NASEM.Reproducibility.02,B.S. in Statistics with Data Science option,1,Reproducible,1,Workflows & workflow systems,1.833333333,0.1832689
 NASEM.Reproducibility.02,B.S. in Data Analytics.W,1,Reproducible,1,Workflows & workflow systems,1.833333333,0.1832689
-

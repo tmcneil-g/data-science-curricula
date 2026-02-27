@@ -1,55 +1,55 @@
-Subarea,Program,Score,Area,ScoreOrdinal
-NASEM.Data.description.visualization.01,B.S. in Data Analytics.O,4,Consistency,4
-NASEM.Data.description.visualization.01,"B.S. in Data Sciences, Applied Data Science option",4,Consistency,4
-NASEM.Data.description.visualization.01,"B.S. in Data Sciences, Computational Science option",4,Consistency,4
-NASEM.Data.description.visualization.01,Data Science Minor,4,Consistency,4
-NASEM.Data.description.visualization.01,Statistics and Data Science BA,4,Consistency,4
-NASEM.Data.description.visualization.01,Statistics and Data Science BS,4,Consistency,4
-NASEM.Data.description.visualization.01,B.A. in Data Science,4,Consistency,4
-NASEM.Data.description.visualization.01,B.S. in Statistics: Statistical Data Science,4,Consistency,4
-NASEM.Data.description.visualization.01,B.A. in Statistics and Data Science,4,Consistency,4
-NASEM.Data.description.visualization.01,Certificate in Data Science ,4,Consistency,4
-NASEM.Data.description.visualization.01,B.S. in Data Science,4,Consistency,4
-NASEM.Data.description.visualization.01,B.S. in Computer Science with data science specialization,4,Consistency,4
-NASEM.Data.description.visualization.01,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Consistency,4
-NASEM.Data.description.visualization.01,"B.S. in Computer Science, Data Science Option",2,Consistency,2
-NASEM.Data.description.visualization.01,B.S. in Human Centered Design & Engineering with Data Science option,4,Consistency,4
-NASEM.Data.description.visualization.01,"B.S. in Informatics, Data Science Track",4,Consistency,4
-NASEM.Data.description.visualization.01,B.S. in Statistics with Data Science option,4,Consistency,4
-NASEM.Data.description.visualization.01,B.S. in Data Analytics.W,4,Consistency,4
-NASEM.Data.description.visualization.02,B.S. in Data Analytics.O,4,Exploratory,4
-NASEM.Data.description.visualization.02,"B.S. in Data Sciences, Applied Data Science option",4,Exploratory,4
-NASEM.Data.description.visualization.02,"B.S. in Data Sciences, Computational Science option",4,Exploratory,4
-NASEM.Data.description.visualization.02,Data Science Minor,4,Exploratory,4
-NASEM.Data.description.visualization.02,Statistics and Data Science BA,4,Exploratory,4
-NASEM.Data.description.visualization.02,Statistics and Data Science BS,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.A. in Data Science,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Statistics: Statistical Data Science,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.A. in Statistics and Data Science,4,Exploratory,4
-NASEM.Data.description.visualization.02,Certificate in Data Science ,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Data Science,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Computer Science with data science specialization,4,Exploratory,4
-NASEM.Data.description.visualization.02,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Exploratory,4
-NASEM.Data.description.visualization.02,"B.S. in Computer Science, Data Science Option",4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Human Centered Design & Engineering with Data Science option,4,Exploratory,4
-NASEM.Data.description.visualization.02,"B.S. in Informatics, Data Science Track",4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Statistics with Data Science option,4,Exploratory,4
-NASEM.Data.description.visualization.02,B.S. in Data Analytics.W,4,Exploratory,4
-NASEM.Data.description.visualization.03,B.S. in Data Analytics.O,3,Grammar,3
-NASEM.Data.description.visualization.03,"B.S. in Data Sciences, Applied Data Science option",1,Grammar,1
-NASEM.Data.description.visualization.03,"B.S. in Data Sciences, Computational Science option",3,Grammar,3
-NASEM.Data.description.visualization.03,Data Science Minor,3,Grammar,3
-NASEM.Data.description.visualization.03,Statistics and Data Science BA,3,Grammar,3
-NASEM.Data.description.visualization.03,Statistics and Data Science BS,3,Grammar,3
-NASEM.Data.description.visualization.03,B.A. in Data Science,3,Grammar,3
-NASEM.Data.description.visualization.03,B.S. in Statistics: Statistical Data Science,3,Grammar,3
-NASEM.Data.description.visualization.03,B.A. in Statistics and Data Science,3,Grammar,3
-NASEM.Data.description.visualization.03,Certificate in Data Science ,2,Grammar,2
-NASEM.Data.description.visualization.03,B.S. in Data Science,3,Grammar,3
-NASEM.Data.description.visualization.03,B.S. in Computer Science with data science specialization,3,Grammar,3
-NASEM.Data.description.visualization.03,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",3,Grammar,3
-NASEM.Data.description.visualization.03,"B.S. in Computer Science, Data Science Option",3,Grammar,3
-NASEM.Data.description.visualization.03,B.S. in Human Centered Design & Engineering with Data Science option,2,Grammar,2
-NASEM.Data.description.visualization.03,"B.S. in Informatics, Data Science Track",3,Grammar,3
-NASEM.Data.description.visualization.03,B.S. in Statistics with Data Science option,2,Grammar,2
-NASEM.Data.description.visualization.03,B.S. in Data Analytics.W,2,Grammar,2
+Subarea.1,Program,Score,Area,ScoreOrdinal,Subarea,Mean_Score,Se_Score
+NASEM.Data.description.visualization.01,B.S. in Data Analytics.O,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,"B.S. in Data Sciences, Applied Data Science option",4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,"B.S. in Data Sciences, Computational Science option",4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,Data Science Minor,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,Statistics and Data Science BA,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,Statistics and Data Science BS,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.A. in Data Science,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Statistics: Statistical Data Science,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.A. in Statistics and Data Science,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,Certificate in Data Science ,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Data Science,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Computer Science with data science specialization,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,"B.S. in Computer Science, Data Science Option",2,Consistency,2,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Human Centered Design & Engineering with Data Science option,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,"B.S. in Informatics, Data Science Track",4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Statistics with Data Science option,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.01,B.S. in Data Analytics.W,4,Consistency,4,Exploratory data analysis,4,0
+NASEM.Data.description.visualization.02,B.S. in Data Analytics.O,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,"B.S. in Data Sciences, Applied Data Science option",4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,"B.S. in Data Sciences, Computational Science option",4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,Data Science Minor,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,Statistics and Data Science BA,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,Statistics and Data Science BS,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.A. in Data Science,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Statistics: Statistical Data Science,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.A. in Statistics and Data Science,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,Certificate in Data Science ,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Data Science,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Computer Science with data science specialization,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,"B.S. in Computer Science, Data Science Option",4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Human Centered Design & Engineering with Data Science option,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,"B.S. in Informatics, Data Science Track",4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Statistics with Data Science option,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.02,B.S. in Data Analytics.W,4,Exploratory,4,Data consistency checking,3.888889,0.1111111
+NASEM.Data.description.visualization.03,B.S. in Data Analytics.O,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,"B.S. in Data Sciences, Applied Data Science option",1,Grammar,1,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,"B.S. in Data Sciences, Computational Science option",3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,Data Science Minor,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,Statistics and Data Science BA,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,Statistics and Data Science BS,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.A. in Data Science,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Statistics: Statistical Data Science,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.A. in Statistics and Data Science,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,Certificate in Data Science ,2,Grammar,2,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Data Science,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Computer Science with data science specialization,3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,"B.S. in Computer Science, Data Science Option",3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Human Centered Design & Engineering with Data Science option,2,Grammar,2,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,"B.S. in Informatics, Data Science Track",3,Grammar,3,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Statistics with Data Science option,2,Grammar,2,Grammar of graphics,2.666667,0.140028
+NASEM.Data.description.visualization.03,B.S. in Data Analytics.W,2,Grammar,2,Grammar of graphics,2.666667,0.140028

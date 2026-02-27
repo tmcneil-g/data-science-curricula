@@ -1,109 +1,109 @@
-Subarea,Program,Score,Area,ScoreOrdinal
-NASEM.Statistics.01,B.S. in Data Analytics.O,4,Variability,4
-NASEM.Statistics.01,"B.S. in Data Sciences, Applied Data Science option",4,Variability,4
-NASEM.Statistics.01,"B.S. in Data Sciences, Computational Science option",4,Variability,4
-NASEM.Statistics.01,Data Science Minor,4,Variability,4
-NASEM.Statistics.01,Statistics and Data Science BA,4,Variability,4
-NASEM.Statistics.01,Statistics and Data Science BS,4,Variability,4
-NASEM.Statistics.01,B.A. in Data Science,4,Variability,4
-NASEM.Statistics.01,B.S. in Statistics: Statistical Data Science,4,Variability,4
-NASEM.Statistics.01,B.A. in Statistics and Data Science,4,Variability,4
-NASEM.Statistics.01,Certificate in Data Science ,4,Variability,4
-NASEM.Statistics.01,B.S. in Data Science,4,Variability,4
-NASEM.Statistics.01,B.S. in Computer Science with data science specialization,4,Variability,4
-NASEM.Statistics.01,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Variability,4
-NASEM.Statistics.01,"B.S. in Computer Science, Data Science Option",1,Variability,1
-NASEM.Statistics.01,B.S. in Human Centered Design & Engineering with Data Science option,4,Variability,4
-NASEM.Statistics.01,"B.S. in Informatics, Data Science Track",4,Variability,4
-NASEM.Statistics.01,B.S. in Statistics with Data Science option,4,Variability,4
-NASEM.Statistics.01,B.S. in Data Analytics.W,4,Variability,4
-NASEM.Statistics.02,B.S. in Data Analytics.O,4,Multivariate,4
-NASEM.Statistics.02,"B.S. in Data Sciences, Applied Data Science option",1,Multivariate,1
-NASEM.Statistics.02,"B.S. in Data Sciences, Computational Science option",1,Multivariate,1
-NASEM.Statistics.02,Data Science Minor,2,Multivariate,2
-NASEM.Statistics.02,Statistics and Data Science BA,1,Multivariate,1
-NASEM.Statistics.02,Statistics and Data Science BS,1,Multivariate,1
-NASEM.Statistics.02,B.A. in Data Science,2,Multivariate,2
-NASEM.Statistics.02,B.S. in Statistics: Statistical Data Science,4,Multivariate,4
-NASEM.Statistics.02,B.A. in Statistics and Data Science,2,Multivariate,2
-NASEM.Statistics.02,Certificate in Data Science ,2,Multivariate,2
-NASEM.Statistics.02,B.S. in Data Science,4,Multivariate,4
-NASEM.Statistics.02,B.S. in Computer Science with data science specialization,1,Multivariate,1
-NASEM.Statistics.02,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Multivariate,4
-NASEM.Statistics.02,"B.S. in Computer Science, Data Science Option",1,Multivariate,1
-NASEM.Statistics.02,B.S. in Human Centered Design & Engineering with Data Science option,1,Multivariate,1
-NASEM.Statistics.02,"B.S. in Informatics, Data Science Track",1,Multivariate,1
-NASEM.Statistics.02,B.S. in Statistics with Data Science option,2,Multivariate,2
-NASEM.Statistics.02,B.S. in Data Analytics.W,4,Multivariate,4
-NASEM.Statistics.03,B.S. in Data Analytics.O,1,Nonsampling,1
-NASEM.Statistics.03,"B.S. in Data Sciences, Applied Data Science option",1,Nonsampling,1
-NASEM.Statistics.03,"B.S. in Data Sciences, Computational Science option",1,Nonsampling,1
-NASEM.Statistics.03,Data Science Minor,1,Nonsampling,1
-NASEM.Statistics.03,Statistics and Data Science BA,4,Nonsampling,4
-NASEM.Statistics.03,Statistics and Data Science BS,4,Nonsampling,4
-NASEM.Statistics.03,B.A. in Data Science,2,Nonsampling,2
-NASEM.Statistics.03,B.S. in Statistics: Statistical Data Science,4,Nonsampling,4
-NASEM.Statistics.03,B.A. in Statistics and Data Science,1,Nonsampling,1
-NASEM.Statistics.03,Certificate in Data Science ,2,Nonsampling,2
-NASEM.Statistics.03,B.S. in Data Science,2,Nonsampling,2
-NASEM.Statistics.03,B.S. in Computer Science with data science specialization,1,Nonsampling,1
-NASEM.Statistics.03,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",2,Nonsampling,2
-NASEM.Statistics.03,"B.S. in Computer Science, Data Science Option",1,Nonsampling,1
-NASEM.Statistics.03,B.S. in Human Centered Design & Engineering with Data Science option,2,Nonsampling,2
-NASEM.Statistics.03,"B.S. in Informatics, Data Science Track",4,Nonsampling,4
-NASEM.Statistics.03,B.S. in Statistics with Data Science option,4,Nonsampling,4
-NASEM.Statistics.03,B.S. in Data Analytics.W,2,Nonsampling,2
-NASEM.Statistics.04,B.S. in Data Analytics.O,4,Exploratory,4
-NASEM.Statistics.04,"B.S. in Data Sciences, Applied Data Science option",4,Exploratory,4
-NASEM.Statistics.04,"B.S. in Data Sciences, Computational Science option",4,Exploratory,4
-NASEM.Statistics.04,Data Science Minor,4,Exploratory,4
-NASEM.Statistics.04,Statistics and Data Science BA,4,Exploratory,4
-NASEM.Statistics.04,Statistics and Data Science BS,4,Exploratory,4
-NASEM.Statistics.04,B.A. in Data Science,4,Exploratory,4
-NASEM.Statistics.04,B.S. in Statistics: Statistical Data Science,4,Exploratory,4
-NASEM.Statistics.04,B.A. in Statistics and Data Science,4,Exploratory,4
-NASEM.Statistics.04,Certificate in Data Science ,4,Exploratory,4
-NASEM.Statistics.04,B.S. in Data Science,4,Exploratory,4
-NASEM.Statistics.04,B.S. in Computer Science with data science specialization,4,Exploratory,4
-NASEM.Statistics.04,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Exploratory,4
-NASEM.Statistics.04,"B.S. in Computer Science, Data Science Option",4,Exploratory,4
-NASEM.Statistics.04,B.S. in Human Centered Design & Engineering with Data Science option,4,Exploratory,4
-NASEM.Statistics.04,"B.S. in Informatics, Data Science Track",4,Exploratory,4
-NASEM.Statistics.04,B.S. in Statistics with Data Science option,4,Exploratory,4
-NASEM.Statistics.04,B.S. in Data Analytics.W,4,Exploratory,4
-NASEM.Statistics.05,B.S. in Data Analytics.O,4,Modeling,4
-NASEM.Statistics.05,"B.S. in Data Sciences, Applied Data Science option",3,Modeling,3
-NASEM.Statistics.05,"B.S. in Data Sciences, Computational Science option",4,Modeling,4
-NASEM.Statistics.05,Data Science Minor,3,Modeling,3
-NASEM.Statistics.05,Statistics and Data Science BA,4,Modeling,4
-NASEM.Statistics.05,Statistics and Data Science BS,4,Modeling,4
-NASEM.Statistics.05,B.A. in Data Science,4,Modeling,4
-NASEM.Statistics.05,B.S. in Statistics: Statistical Data Science,4,Modeling,4
-NASEM.Statistics.05,B.A. in Statistics and Data Science,4,Modeling,4
-NASEM.Statistics.05,Certificate in Data Science ,3,Modeling,3
-NASEM.Statistics.05,B.S. in Data Science,4,Modeling,4
-NASEM.Statistics.05,B.S. in Computer Science with data science specialization,3,Modeling,3
-NASEM.Statistics.05,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Modeling,4
-NASEM.Statistics.05,"B.S. in Computer Science, Data Science Option",2,Modeling,2
-NASEM.Statistics.05,B.S. in Human Centered Design & Engineering with Data Science option,3,Modeling,3
-NASEM.Statistics.05,"B.S. in Informatics, Data Science Track",3,Modeling,3
-NASEM.Statistics.05,B.S. in Statistics with Data Science option,4,Modeling,4
-NASEM.Statistics.05,B.S. in Data Analytics.W,4,Modeling,4
-NASEM.Statistics.06,B.S. in Data Analytics.O,3,Simulations,3
-NASEM.Statistics.06,"B.S. in Data Sciences, Applied Data Science option",1,Simulations,1
-NASEM.Statistics.06,"B.S. in Data Sciences, Computational Science option",1,Simulations,1
-NASEM.Statistics.06,Data Science Minor,1,Simulations,1
-NASEM.Statistics.06,Statistics and Data Science BA,4,Simulations,4
-NASEM.Statistics.06,Statistics and Data Science BS,4,Simulations,4
-NASEM.Statistics.06,B.A. in Data Science,2,Simulations,2
-NASEM.Statistics.06,B.S. in Statistics: Statistical Data Science,4,Simulations,4
-NASEM.Statistics.06,B.A. in Statistics and Data Science,3,Simulations,3
-NASEM.Statistics.06,Certificate in Data Science ,2,Simulations,2
-NASEM.Statistics.06,B.S. in Data Science,2,Simulations,2
-NASEM.Statistics.06,B.S. in Computer Science with data science specialization,1,Simulations,1
-NASEM.Statistics.06,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",2,Simulations,2
-NASEM.Statistics.06,"B.S. in Computer Science, Data Science Option",1,Simulations,1
-NASEM.Statistics.06,B.S. in Human Centered Design & Engineering with Data Science option,2,Simulations,2
-NASEM.Statistics.06,"B.S. in Informatics, Data Science Track",3,Simulations,3
-NASEM.Statistics.06,B.S. in Statistics with Data Science option,2,Simulations,2
-NASEM.Statistics.06,B.S. in Data Analytics.W,2,Simulations,2
+Subarea_1,Program,Score,Area,ScoreOrdinal,Subarea,Mean_Score,Se_Score
+NASEM.Statistics.01,B.S. in Data Analytics.O,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,"B.S. in Data Sciences, Applied Data Science option",4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,"B.S. in Data Sciences, Computational Science option",4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,Data Science Minor,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,Statistics and Data Science BA,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,Statistics and Data Science BS,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.A. in Data Science,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Statistics: Statistical Data Science,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.A. in Statistics and Data Science,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,Certificate in Data Science ,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Data Science,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Computer Science with data science specialization,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,"B.S. in Computer Science, Data Science Option",1,Variability,1,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Human Centered Design & Engineering with Data Science option,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,"B.S. in Informatics, Data Science Track",4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Statistics with Data Science option,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.01,B.S. in Data Analytics.W,4,Variability,4,Exploratory data analysis,4,0
+NASEM.Statistics.02,B.S. in Data Analytics.O,4,Multivariate,4,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,"B.S. in Data Sciences, Applied Data Science option",1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,"B.S. in Data Sciences, Computational Science option",1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,Data Science Minor,2,Multivariate,2,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,Statistics and Data Science BA,1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,Statistics and Data Science BS,1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.A. in Data Science,2,Multivariate,2,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Statistics: Statistical Data Science,4,Multivariate,4,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.A. in Statistics and Data Science,2,Multivariate,2,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,Certificate in Data Science ,2,Multivariate,2,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Data Science,4,Multivariate,4,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Computer Science with data science specialization,1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Multivariate,4,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,"B.S. in Computer Science, Data Science Option",1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Human Centered Design & Engineering with Data Science option,1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,"B.S. in Informatics, Data Science Track",1,Multivariate,1,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Statistics with Data Science option,2,Multivariate,2,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.02,B.S. in Data Analytics.W,4,Multivariate,4,"Variability, uncertainty, sampling error, and inference",3.833333,0.1666667
+NASEM.Statistics.03,B.S. in Data Analytics.O,1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,"B.S. in Data Sciences, Applied Data Science option",1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,"B.S. in Data Sciences, Computational Science option",1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,Data Science Minor,1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,Statistics and Data Science BA,4,Nonsampling,4,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,Statistics and Data Science BS,4,Nonsampling,4,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.A. in Data Science,2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Statistics: Statistical Data Science,4,Nonsampling,4,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.A. in Statistics and Data Science,1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,Certificate in Data Science ,2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Data Science,2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Computer Science with data science specialization,1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,"B.S. in Computer Science, Data Science Option",1,Nonsampling,1,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Human Centered Design & Engineering with Data Science option,2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,"B.S. in Informatics, Data Science Track",4,Nonsampling,4,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Statistics with Data Science option,4,Nonsampling,4,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.03,B.S. in Data Analytics.W,2,Nonsampling,2,Statistical modeling and model assessment,3.555556,0.1451216
+NASEM.Statistics.04,B.S. in Data Analytics.O,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,"B.S. in Data Sciences, Applied Data Science option",4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,"B.S. in Data Sciences, Computational Science option",4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,Data Science Minor,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,Statistics and Data Science BA,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,Statistics and Data Science BS,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.A. in Data Science,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Statistics: Statistical Data Science,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.A. in Statistics and Data Science,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,Certificate in Data Science ,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Data Science,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Computer Science with data science specialization,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,"B.S. in Computer Science, Data Science Option",4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Human Centered Design & Engineering with Data Science option,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,"B.S. in Informatics, Data Science Track",4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Statistics with Data Science option,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.04,B.S. in Data Analytics.W,4,Exploratory,4,Simulations and experiments,2.222222,0.2499092
+NASEM.Statistics.05,B.S. in Data Analytics.O,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,"B.S. in Data Sciences, Applied Data Science option",3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,"B.S. in Data Sciences, Computational Science option",4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,Data Science Minor,3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,Statistics and Data Science BA,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,Statistics and Data Science BS,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.A. in Data Science,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Statistics: Statistical Data Science,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.A. in Statistics and Data Science,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,Certificate in Data Science ,3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Data Science,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Computer Science with data science specialization,3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,"B.S. in Computer Science, Data Science Option",2,Modeling,2,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Human Centered Design & Engineering with Data Science option,3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,"B.S. in Informatics, Data Science Track",3,Modeling,3,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Statistics with Data Science option,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.05,B.S. in Data Analytics.W,4,Modeling,4,"Nonsampling error, design, experiments (e.g., A/B testing), biases, confounding, and causal inference",2.166667,0.294281
+NASEM.Statistics.06,B.S. in Data Analytics.O,3,Simulations,3,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,"B.S. in Data Sciences, Applied Data Science option",1,Simulations,1,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,"B.S. in Data Sciences, Computational Science option",1,Simulations,1,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,Data Science Minor,1,Simulations,1,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,Statistics and Data Science BA,4,Simulations,4,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,Statistics and Data Science BS,4,Simulations,4,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.A. in Data Science,2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Statistics: Statistical Data Science,4,Simulations,4,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.A. in Statistics and Data Science,3,Simulations,3,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,Certificate in Data Science ,2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Data Science,2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Computer Science with data science specialization,1,Simulations,1,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,"B.S. in Applied & Computational Mathematical Sciences, Data Sciences & Statistics Track",2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,"B.S. in Computer Science, Data Science Option",1,Simulations,1,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Human Centered Design & Engineering with Data Science option,2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,"B.S. in Informatics, Data Science Track",3,Simulations,3,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Statistics with Data Science option,2,Simulations,2,Multivariate thinking,2.111111,0.3012923
+NASEM.Statistics.06,B.S. in Data Analytics.W,2,Simulations,2,Multivariate thinking,2.111111,0.3012923

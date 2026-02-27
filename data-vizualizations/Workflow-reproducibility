@@ -26,7 +26,7 @@ reproducible_catplot <- ggplot(data = reproducible_scores, mapping = aes(y = Sub
   labs(x = "Score",
        y = "Sub-Area")
 
-ggsave(filename = "output/reproducible_1.png", 
+ggsave(filename = "output/reproducible.png", 
        plot = reproducible_catplot,
        width = 10,
        height = 3,

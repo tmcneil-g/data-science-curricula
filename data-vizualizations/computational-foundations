@@ -1,0 +1,32 @@
+# Generate caterpillar-style plot of sub-area scores for NASEM Area "Computational foundations"
+library("ggplot2")
+
+# Read in data
+computational_scores <- read.csv(file = "data/computational_long.csv")
+
+# Update description with linebreaks to conserve horizontal space in plot
+computational_scores$Subarea <- stringr::str_wrap(string = computational_scores$Subarea, 
+                                                      width = 20)
+
+computational_catplot <- ggplot(data = computational_scores, mapping = aes(y = Subarea)) +
+  geom_errorbar(mapping = aes(xmin = Mean_Score - (2 * Se_Score),
+                              xmax = Mean_Score + (2 * Se_Score)),
+                width = 0.0) +
+  geom_point(mapping = aes(x = Score, y = Subarea),
+             shape = 21,
+             fill = "black",
+             alpha = 0.25,
+             size = 1) + 
+  geom_point(mapping = aes(x = Mean_Score, y = Subarea),
+             shape = 21,
+             fill = "white",
+             size = 2.5) + 
+  theme_bw() +
+  labs(x = "Score",
+       y = "Sub-Area")
+
+ggsave(filename = "output/computational.png", 
+       plot = computational_catplot,
+       width = 10,
+       height = 6,
+       units = "cm")

@@ -1,0 +1,33 @@
+# Generate caterpillar-style plot of sub-area scores for NASEM Area "Data modeling and assessment"
+
+library("ggplot2")
+
+# Read in data
+data_modeling_scores <- read.csv(file = "data/data_modeling_long.csv")
+
+# Update description with linebreaks to conserve horizontal space in plot
+data_modeling_scores$Subarea <- stringr::str_wrap(string = data_modeling_scores$Subarea, 
+                                                      width = 20)
+
+data_modeling_catplot <- ggplot(data = data_modeling_scores, mapping = aes(y = Subarea)) +
+  geom_errorbar(mapping = aes(xmin = Mean_Score - (2 * Se_Score),
+                              xmax = Mean_Score + (2 * Se_Score)),
+                width = 0.0) +
+  geom_point(mapping = aes(x = Score, y = Subarea),
+             shape = 21,
+             fill = "black",
+             alpha = 0.25,
+             size = 1) + 
+  geom_point(mapping = aes(x = Mean_Score, y = Subarea),
+             shape = 21,
+             fill = "white",
+             size = 2.5) + 
+  theme_bw() +
+  labs(x = "Score",
+       y = "Sub-Area")
+
+ggsave(filename = "output/data_modeling.png", 
+       plot = data_modeling_catplot,
+       width = 10,
+       height = 9,
+       units = "cm")

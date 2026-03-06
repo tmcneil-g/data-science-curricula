@@ -24,9 +24,3 @@ scores_clmm <- ordinal::clmm(ScoreOrdinal ~ Area + (1|Program),
 # Run post-hoc pairwise comparisons
 emm <- emmeans(scores_clmm, ~ Area)
 pairs(emm, adjust = "tukey")
-
-
-
-
-
-

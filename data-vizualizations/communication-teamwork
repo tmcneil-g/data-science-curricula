@@ -3,7 +3,7 @@
 library("ggplot2")
 
 # Read in data
-communication_scores <- read.csv(file = "data/communication_long.csv")
+communication_scores <- read.csv(file = "data/communication_long_1.csv")
 
 # Update description with linebreaks to conserve horizontal space in plot
 communication_scores$Subarea <- stringr::str_wrap(string = communication_scores$Subarea, 

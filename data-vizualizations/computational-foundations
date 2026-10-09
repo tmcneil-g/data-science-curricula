@@ -2,7 +2,7 @@
 library("ggplot2")
 
 # Read in data
-computational_scores <- read.csv(file = "data/computational_long.csv")
+computational_scores <- read.csv(file = "data/computational_long_1.csv")
 
 # Update description with linebreaks to conserve horizontal space in plot
 computational_scores$Subarea <- stringr::str_wrap(string = computational_scores$Subarea, 

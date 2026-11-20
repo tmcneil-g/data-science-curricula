@@ -2,7 +2,7 @@
 # Areas/sub-areas categorized as “technical” scored higher than areas/sub-areas categorized as “soft” or “soft/technical.”
 
 # Read data
-nasem_all <- read.csv(file = "data/technical-soft-skills.csv")
+nasem_all <- read.csv(file = "data/technical-soft-skills-5.csv")
 
 # Run one-tailed Student's t-test
 # Use var.equal=TRUE for equal variances
